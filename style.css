@@ -1,0 +1,88 @@
+
+
+body {
+    background-image: url(beanstalk.png);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    
+    
+}
+h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+@media only screen and (max-width: 600px){
+.navbar-nav {
+    width: 20%;
+}
+
+}
+
+
+   
+     .navbar-nav {   
+     flex-flow: row; 
+     margin-left: auto;
+     font-family: 'Georgia', Times, Times New Roman, serif;
+     background-color: #ffffff;
+    }
+
+ 
+
+ .aboutme {
+     background-color: #ffffff;
+     margin-top: 45px;
+     height: 450px;
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+ }
+
+ .footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #666666;
+    border: outset;
+ }
+
+ .forms {
+     background-color: #ffffff;
+     margin-top: 20px;
+ }
+   .porfolio {
+       background-color: #ffffff;
+       margin-top: 20px;
+   }
+nav {
+    margin-top: -7px;
+}
+
+ img {
+ float: left;
+ margin-top: 4px;  
+ padding-right: 13px;  
+ }
+
+ h2 {
+    font-size: 2rem;
+    border-bottom: groove;
+    padding-left: 28px;
+    padding-bottom: 24px;
+    padding-top: 17px;
+ }
+
+ .aboutp {
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+ }
+ .collapse navbar-collapse {
+     background-color: #ffffff;
+     
+ }
+
+ .comtainer {
+     width: 200px;
+     height: 100px;
+ }
